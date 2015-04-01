@@ -9,10 +9,7 @@ CMS Detector is a chrome extension that detects the Content Management Systems b
 - Contao<br>
 <br>
 # How to install?
-The extension is still in beta version, so the only way to install it atm is to download and execute the CRX file I´ve created in the root folder. To get the latest features you have to install it like descriped here:<br>
-- Navigate to chrome://extensions<br>
-- Expand the developer dropdown menu and click "Load Unpacked Extension"<br>
-- Navigate to local folder<br>
-- Assuming there are no errors, the extension should load into your browser<br>
+The extension is still in beta version, so the only way to install it atm is to download and execute the CRX file I´ve created in the root folder. I try to keep it as up-to-date as possible!
+https://github.com/siemendev/cms-detector/raw/master/CMS%20Detector.crx
 <br>
 (c) 2015 Patrick Siemen - https://www.patrick-siemen.de - post@patrick-siemen.de
